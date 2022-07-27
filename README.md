@@ -7,9 +7,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Octocat" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/13309fbe8d19ed554f2e6dd23aa984250d58ee205ef648849c4e4217da999d52/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31302f34363839363138342d62363739666338302d636533302d313165382d383862662d3932316539623738386637632e6769663f726573697a653d323030253243323030">
 </div>
   
   ##
